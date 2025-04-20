@@ -9,4 +9,4 @@
 
 ## Table of Contents
 
-- [Discord Bot Setups](https://github.com/MistyEliz/discord-server-utilities/tree/main/bots) - Find useful bots for your Discord server!
+◉ [Discord Bot Setups](https://github.com/MistyEliz/discord-server-utilities/tree/main/bots) - Find useful bots for your Discord server!
