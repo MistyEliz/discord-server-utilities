@@ -10,3 +10,4 @@
 ## Table of Contents
 
 ◉ [Discord Bot Setups](https://github.com/MistyEliz/discord-server-utilities/tree/main/bots) - Find useful bots for your Discord server!
+◉ [Fun Discord Bots](https://github.com/MistyEliz/discord-server-utilities/tree/main/fun%20bots) - Find fun bots to entertain your members!
