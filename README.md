@@ -1,2 +1,3 @@
-# discord-server-utilities
-A set of utilities helpful for your Discord servers!
+# Discord Server Utilities - Created By MistyEliz
+> Welcome to my page for useful Utilities for your Discord server!
+> Here, I will give some useful utilities including Bots, Configuration, Templates, & More.
