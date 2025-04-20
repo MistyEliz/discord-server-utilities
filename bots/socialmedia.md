@@ -28,3 +28,6 @@ Want to be prepared incase your server gets raided? Xenon has your back! With a 
 
 Arcane is useful for having a leveling system with level rewards, and more.
 
+[Tickety](https://discord.com/discovery/applications/718493970652594217) - Support System
+
+Tickety has many customization options and I would recommend this over the other ticket bots. Tickety allows you to make multiple panels, support teams, and more. Check it out!
