@@ -21,3 +21,5 @@ Useful for getting real-time information on your server, linking your players, a
 [Tickety](https://discord.com/discovery/applications/718493970652594217) - Support System
 
 Tickety has many customization options and I would recommend this over the other ticket bots. Tickety allows you to make multiple panels, support teams, and more. Check it out!
+
+### __Everything in this File is to be changed. Stay tuned in our__ __[Discord Server](https://discord.gg/qUAZbETfAu).__
