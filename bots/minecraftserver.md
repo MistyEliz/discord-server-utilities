@@ -22,4 +22,12 @@ Useful for getting real-time information on your server, linking your players, a
 
 Tickety has many customization options and I would recommend this over the other ticket bots. Tickety allows you to make multiple panels, support teams, and more. Check it out!
 
+[Invite Tracker](https://discord.com/discovery/applications/720351927581278219) - Track Invites
+
+Invite Tracker can send messages in a chosen channel about who invites people to your server. This is useful for an invite rewards system. Definetly recommended.
+
+[GiveawayBot](https://discord.com/discovery/applications/294882584201003009) - Host Giveaways!
+
+Host giveaways to your server! This can include free in-game items or general items in discord. You can make any giveaway with GiveawayBot.
+
 ### __Everything in this File is to be changed. Stay tuned in our__ __[Discord Server](https://discord.gg/qUAZbETfAu).__
